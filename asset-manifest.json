@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Simple_remider-app/static/css/main.a022f539.css",
+    "main.js": "/React-Simple_remider-app/static/js/main.2f7567a1.js",
+    "static/js/787.c9282854.chunk.js": "/React-Simple_remider-app/static/js/787.c9282854.chunk.js",
+    "static/media/chime.mp3": "/React-Simple_remider-app/static/media/chime.e79e0abb7c74667ec9d7.mp3",
+    "index.html": "/React-Simple_remider-app/index.html",
+    "main.a022f539.css.map": "/React-Simple_remider-app/static/css/main.a022f539.css.map",
+    "main.2f7567a1.js.map": "/React-Simple_remider-app/static/js/main.2f7567a1.js.map",
+    "787.c9282854.chunk.js.map": "/React-Simple_remider-app/static/js/787.c9282854.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a022f539.css",
+    "static/js/main.2f7567a1.js"
+  ]
+}
